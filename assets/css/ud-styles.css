@@ -710,6 +710,11 @@ p {
   margin-bottom: 70px;
 }
 
+.ud-section-title-a{
+  max-width: 1000px;
+  margin-bottom: 30px;
+}
+
 .ud-section-title span {
   font-weight: 600;
   font-size: 18px;
